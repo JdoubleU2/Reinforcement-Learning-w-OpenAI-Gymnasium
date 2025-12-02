@@ -78,5 +78,3 @@ DQN is used for image-based discrete Atari games, while PPO is used for continuo
 
 
 For detailed plots, hyperparameter tables, and discussion, see `ModernAI_FinalProjectPaper.pdf`.
-
-This project was completed as part of **ELEG 6360: Modern Artificial Intelligence** in the Department of Electrical and Computer Engineering at Prairie View A&M University.
